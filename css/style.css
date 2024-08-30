@@ -1,0 +1,55 @@
+.menu{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    list-style: none;
+    background-color: #202020;
+    color: #f0f0f0;
+    font-size: 2em;
+    padding: 10px 30px;
+}.menu2{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    list-style: none;
+    background-color: red;
+    color: #f0f0f0;
+    font-size: 2em;
+    padding: 10px 30px;
+}.menu3{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    list-style: none;
+    background-color: blue;
+    color: #f0f0f0;
+    font-size: 2em;
+    padding: 10px 30px;
+}.menu4{
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: green;
+    color: #f0f0f0;
+    font-size: 2em;
+    padding: 10px 30px;
+}.menu5{
+    display: flex;
+    gap: 30px;
+    justify-content: start;
+    list-style: none;
+    background-color: yellow;
+    color: #f0f0f0;
+    font-size: 2em;
+    padding: 10px 30px;
+}.menu6{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    list-style: none;
+    background-color: pink;
+    color: #f0f0f0;
+    font-size: 2em;
+    padding: 10px 30px;
+}
